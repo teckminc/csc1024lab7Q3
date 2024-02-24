@@ -71,7 +71,7 @@ def showSubstraction():
     return 0
 
 #do not change this function name
-def evaluation(ans, cor):
+def evaluation():
 
     return 0
 
